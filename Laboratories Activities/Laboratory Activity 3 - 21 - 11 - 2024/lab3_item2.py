@@ -9,7 +9,6 @@ def perfect_number(number):
 
     return divisors_sum == number
 
-
 if __name__ == "__main__":
     try:
         user_input = input("Enter a number: ")
